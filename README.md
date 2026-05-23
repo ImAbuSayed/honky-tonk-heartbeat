@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/honky-tonk-heartbeat/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Honky Tonk Heartbeat](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/honky-tonk-heartbeat/) |
+| **Get License** | [Official Music Licensing for Honky Tonk Heartbeat](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/honky-tonk-heartbeat/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `75cd685feb2a09e6d219b6f7a557ff0f4dc96a4fb7d53add67be9bfda3107cbf` |
 | **Timestamp** | May 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
