@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/honky-tonk-heartbeat/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Honky Tonk Heartbeat](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/honky-tonk-heartbeat/) |
+| **Get License** | [Music Rights & Licensing for Honky Tonk Heartbeat](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/honky-tonk-heartbeat/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I got a honky tonk heartbeat drumming for you
+> Every time your shadow crosses the room
+> Pour a little bourbon, turn the lights down low
+> I want to take you where the wild wind blows
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
